@@ -3,7 +3,8 @@
     "description": "Laravel Article Package",
     "keywords": [
         "datlv",
-        "laravel-article"
+        "laravel",
+        "article"
     ],
     "homepage": "https://github.com/datlv/laravel-article",
     "license": "MIT",
